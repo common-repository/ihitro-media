@@ -1,0 +1,7 @@
+#login h1 a {background-image: url("../images/ihitro-wp-logo.png") !important; }
+
+html, body.login 	{background:#005797;}
+.login form 		{-webkit-box-shadow:none;box-shadow: none;}
+
+.login #nav a, .login #backtoblog a {color: #fff!important;}
+.login #nav, .login #backtoblog 	{text-shadow: none;}
